@@ -49,7 +49,7 @@ customer-segmentation-project/
 │   ├── elbow_plot.png
 │   └── cluster_plot.png
 ├── notebook/
-│   └── customer_segmentation.ipynb
+│   └── code.ipynb
 ├── output/
 │   └── segmented_customers.csv
 ├── .gitignore
