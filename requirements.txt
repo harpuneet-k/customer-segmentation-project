@@ -22,5 +22,5 @@ Clusters of customers were identified, enabling effective group-specific marketi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/customer-segmentation-project.git
+   git clone https://github.com/harpuneet-k/customer-segmentation-project.git
    cd customer-segmentation-project

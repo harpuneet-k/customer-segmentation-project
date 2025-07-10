@@ -1,8 +1,8 @@
 # 🧠 Customer Segmentation Using Machine Learning
 
 🎓 Final Project — Celebal Internship  
-👤 Submitted by: Harpuneet  
-📅 July 2025
+👤 Submitted by: Harpuneet Kaur 
+📅 10th July 2025
 
 ---
 
@@ -16,7 +16,7 @@ The goal is to help businesses target marketing strategies more effectively for 
 ## 📊 Dataset
 
 - **Name:** Mall Customers Dataset  
-- **Source:** [Kaggle / UCI ML Repository]  
+- **Source:** [ Kaggle ]  
 - **Features:**
   - `CustomerID`
   - `Gender`
@@ -40,16 +40,19 @@ The goal is to help businesses target marketing strategies more effectively for 
 
 ## 📂 Project Structure
 
+
+<pre>
 customer-segmentation-project/
 ├── data/
-│ └── Mall_Customers.csv
-├── notebook/
-│ └── customer_segmentation.ipynb
-├── output/
-│ └── segmented_customers.csv
+│   └── Mall_Customers.csv
 ├── images/
-│ └── elbow_plot.png
-│ └── cluster_plot.png
+│   ├── elbow_plot.png
+│   └── cluster_plot.png
+├── notebook/
+│   └── customer_segmentation.ipynb
+├── output/
+│   └── segmented_customers.csv
+├── .gitignore
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
+</pre>
